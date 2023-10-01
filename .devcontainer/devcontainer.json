@@ -17,7 +17,9 @@
 				"VisualStudioExptTeam.vscodeintellicode",
 				"VisualStudioExptTeam.intellicode-api-usage-examples",
 				"bradlc.vscode-tailwindcss",
-				"EditorConfig.EditorConfig"
+				"EditorConfig.EditorConfig",
+				"csstools.postcss",
+				"oderwat.indent-rainbow"
 			]
 		}
 	},
